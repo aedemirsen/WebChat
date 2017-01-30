@@ -1,11 +1,7 @@
-body,
-textarea,
-input{
-    font: 13px "Trebuchet MS", sans-serif;
-}
 
 .chat{
     max-width:550px;
+    align-self: center;
 }
 
 .messages,
@@ -16,6 +12,9 @@ input{
     width:100%;
     padding:10px;
     margin : 1px;
+}
+h3{
+   align-content: center;
 }
 .messages{
     border:2px solid #399;
